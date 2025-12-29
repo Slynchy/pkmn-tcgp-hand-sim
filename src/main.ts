@@ -64,6 +64,8 @@ async function main(args: string[], opts: ICLIArguments) {
     deckCards[i] = value;
   }
 
+  const handSize = 5;
+
   // run simulation
   // use workers for multi-threading if available
   if (
@@ -76,7 +78,6 @@ async function main(args: string[], opts: ICLIArguments) {
       "./functions/drawStartingHandWithGuaranteedBasic.js"
       );
 
-    const handSize = 7;
 
 // Shared output buffer (all workers write into this)
     const outputSAB = new SharedArrayBuffer(iterations * handSize);
@@ -154,7 +155,6 @@ async function main(args: string[], opts: ICLIArguments) {
     );
   } else {
     const { drawStartingHandWithGuaranteedBasic } = await import("./functions/drawStartingHandWithGuaranteedBasic.js");
-    const handSize = 7;
     const outputArray = new Uint8Array(iterations * handSize);
     for (let iter = 0; iter < iterations; iter++) {
       drawStartingHandWithGuaranteedBasic(
