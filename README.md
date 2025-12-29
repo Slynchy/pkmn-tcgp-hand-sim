@@ -6,17 +6,17 @@ Example output:
 
 ```
 How often each card ID was drawn in starting hands:
-Card ID: P-A-116 (Shaymin), Drawn: 8716 times, Frequency: 87.16%
-Card ID: B1a-005 (Spinarak), Drawn: 8572 times, Frequency: 85.72%
-Card ID: A2b-001 (Weedle), Drawn: 8464 times, Frequency: 84.64%
-Card ID: P-A-007 (Professor's Research), Drawn: 6383 times, Frequency: 63.83%
-Card ID: A2b-003 (Beedrill ex), Drawn: 6361 times, Frequency: 63.61%
-Card ID: A3-147 (Leaf Cape), Drawn: 6344 times, Frequency: 63.44%
-Card ID: A3-144 (Rare Candy), Drawn: 6326 times, Frequency: 63.26%
-Card ID: B1a-070 (Ariados), Drawn: 6322 times, Frequency: 63.22%
-Card ID: A2b-002 (Kakuna), Drawn: 6271 times, Frequency: 62.71%
-Card ID: A2-146 (Pokémon Communication), Drawn: 3130 times, Frequency: 31.30%
-Card ID: P-A-005 (Poké Ball), Drawn: 3111 times, Frequency: 31.11%
+Card ID: P-A-116 (Shaymin), Drawn: 684768 times, Frequency: 68.48%
+Card ID: A2b-001 (Weedle), Drawn: 684544 times, Frequency: 68.45%
+Card ID: B1a-005 (Spinarak), Drawn: 683606 times, Frequency: 68.36%
+Card ID: A3-147 (Leaf Cape), Drawn: 421393 times, Frequency: 42.14%
+Card ID: B1a-070 (Ariados), Drawn: 421142 times, Frequency: 42.11%
+Card ID: A2b-002 (Kakuna), Drawn: 421026 times, Frequency: 42.10%
+Card ID: P-A-007 (Professor's Research), Drawn: 420987 times, Frequency: 42.10%
+Card ID: A3-144 (Rare Candy), Drawn: 420700 times, Frequency: 42.07%
+Card ID: A2b-003 (Beedrill ex), Drawn: 420499 times, Frequency: 42.05%
+Card ID: P-A-005 (Poké Ball), Drawn: 211353 times, Frequency: 21.14%
+Card ID: A2-146 (Pokémon Communication), Drawn: 209982 times, Frequency: 21.00%
 ```
 
 ## Usage
