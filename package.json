@@ -1,0 +1,17 @@
+{
+  "name": "pkmn-tcgp-hand-sim",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sam Lynch <myself@slynch.ovh>",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@tcgdex/sdk": "^2.7.1",
+    "@types/node": "^25.0.3",
+    "commander": "^14.0.2"
+  }
+}

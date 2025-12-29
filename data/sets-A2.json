@@ -1,0 +1,1244 @@
+[
+  {
+    "name": "Oddish",
+    "idx": 1,
+    "id": "A2-001",
+    "type": 0
+  },
+  {
+    "name": "Gloom",
+    "idx": 2,
+    "id": "A2-002",
+    "type": 1
+  },
+  {
+    "name": "Bellossom",
+    "idx": 3,
+    "id": "A2-003",
+    "type": 2
+  },
+  {
+    "name": "Tangela",
+    "idx": 4,
+    "id": "A2-004",
+    "type": 0
+  },
+  {
+    "name": "Tangrowth",
+    "idx": 5,
+    "id": "A2-005",
+    "type": 1
+  },
+  {
+    "name": "Yanma",
+    "idx": 6,
+    "id": "A2-006",
+    "type": 0
+  },
+  {
+    "name": "Yanmega ex",
+    "idx": 7,
+    "id": "A2-007",
+    "type": 1
+  },
+  {
+    "name": "Roselia",
+    "idx": 8,
+    "id": "A2-008",
+    "type": 0
+  },
+  {
+    "name": "Roserade",
+    "idx": 9,
+    "id": "A2-009",
+    "type": 1
+  },
+  {
+    "name": "Turtwig",
+    "idx": 10,
+    "id": "A2-010",
+    "type": 0
+  },
+  {
+    "name": "Grotle",
+    "idx": 11,
+    "id": "A2-011",
+    "type": 1
+  },
+  {
+    "name": "Torterra",
+    "idx": 12,
+    "id": "A2-012",
+    "type": 2
+  },
+  {
+    "name": "Kricketot",
+    "idx": 13,
+    "id": "A2-013",
+    "type": 0
+  },
+  {
+    "name": "Kricketune",
+    "idx": 14,
+    "id": "A2-014",
+    "type": 1
+  },
+  {
+    "name": "Burmy",
+    "idx": 15,
+    "id": "A2-015",
+    "type": 0
+  },
+  {
+    "name": "Wormadam",
+    "idx": 16,
+    "id": "A2-016",
+    "type": 1
+  },
+  {
+    "name": "Combee",
+    "idx": 17,
+    "id": "A2-017",
+    "type": 0
+  },
+  {
+    "name": "Vespiquen",
+    "idx": 18,
+    "id": "A2-018",
+    "type": 1
+  },
+  {
+    "name": "Carnivine",
+    "idx": 19,
+    "id": "A2-019",
+    "type": 0
+  },
+  {
+    "name": "Leafeon",
+    "idx": 20,
+    "id": "A2-020",
+    "type": 1
+  },
+  {
+    "name": "Mow Rotom",
+    "idx": 21,
+    "id": "A2-021",
+    "type": 0
+  },
+  {
+    "name": "Shaymin",
+    "idx": 22,
+    "id": "A2-022",
+    "type": 0
+  },
+  {
+    "name": "Magmar",
+    "idx": 23,
+    "id": "A2-023",
+    "type": 0
+  },
+  {
+    "name": "Magmortar",
+    "idx": 24,
+    "id": "A2-024",
+    "type": 1
+  },
+  {
+    "name": "Slugma",
+    "idx": 25,
+    "id": "A2-025",
+    "type": 0
+  },
+  {
+    "name": "Magcargo",
+    "idx": 26,
+    "id": "A2-026",
+    "type": 1
+  },
+  {
+    "name": "Chimchar",
+    "idx": 27,
+    "id": "A2-027",
+    "type": 0
+  },
+  {
+    "name": "Monferno",
+    "idx": 28,
+    "id": "A2-028",
+    "type": 1
+  },
+  {
+    "name": "Infernape ex",
+    "idx": 29,
+    "id": "A2-029",
+    "type": 2
+  },
+  {
+    "name": "Heat Rotom",
+    "idx": 30,
+    "id": "A2-030",
+    "type": 0
+  },
+  {
+    "name": "Swinub",
+    "idx": 31,
+    "id": "A2-031",
+    "type": 0
+  },
+  {
+    "name": "Piloswine",
+    "idx": 32,
+    "id": "A2-032",
+    "type": 1
+  },
+  {
+    "name": "Mamoswine",
+    "idx": 33,
+    "id": "A2-033",
+    "type": 2
+  },
+  {
+    "name": "Regice",
+    "idx": 34,
+    "id": "A2-034",
+    "type": 0
+  },
+  {
+    "name": "Piplup",
+    "idx": 35,
+    "id": "A2-035",
+    "type": 0
+  },
+  {
+    "name": "Prinplup",
+    "idx": 36,
+    "id": "A2-036",
+    "type": 1
+  },
+  {
+    "name": "Empoleon",
+    "idx": 37,
+    "id": "A2-037",
+    "type": 2
+  },
+  {
+    "name": "Buizel",
+    "idx": 38,
+    "id": "A2-038",
+    "type": 0
+  },
+  {
+    "name": "Floatzel",
+    "idx": 39,
+    "id": "A2-039",
+    "type": 1
+  },
+  {
+    "name": "Shellos",
+    "idx": 40,
+    "id": "A2-040",
+    "type": 0
+  },
+  {
+    "name": "Gastrodon",
+    "idx": 41,
+    "id": "A2-041",
+    "type": 1
+  },
+  {
+    "name": "Finneon",
+    "idx": 42,
+    "id": "A2-042",
+    "type": 0
+  },
+  {
+    "name": "Lumineon",
+    "idx": 43,
+    "id": "A2-043",
+    "type": 1
+  },
+  {
+    "name": "Snover",
+    "idx": 44,
+    "id": "A2-044",
+    "type": 0
+  },
+  {
+    "name": "Abomasnow",
+    "idx": 45,
+    "id": "A2-045",
+    "type": 1
+  },
+  {
+    "name": "Glaceon",
+    "idx": 46,
+    "id": "A2-046",
+    "type": 1
+  },
+  {
+    "name": "Wash Rotom",
+    "idx": 47,
+    "id": "A2-047",
+    "type": 0
+  },
+  {
+    "name": "Frost Rotom",
+    "idx": 48,
+    "id": "A2-048",
+    "type": 0
+  },
+  {
+    "name": "Palkia ex",
+    "idx": 49,
+    "id": "A2-049",
+    "type": 0
+  },
+  {
+    "name": "Manaphy",
+    "idx": 50,
+    "id": "A2-050",
+    "type": 0
+  },
+  {
+    "name": "Magnemite",
+    "idx": 51,
+    "id": "A2-051",
+    "type": 0
+  },
+  {
+    "name": "Magneton",
+    "idx": 52,
+    "id": "A2-052",
+    "type": 1
+  },
+  {
+    "name": "Magnezone",
+    "idx": 53,
+    "id": "A2-053",
+    "type": 2
+  },
+  {
+    "name": "Voltorb",
+    "idx": 54,
+    "id": "A2-054",
+    "type": 0
+  },
+  {
+    "name": "Electrode",
+    "idx": 55,
+    "id": "A2-055",
+    "type": 1
+  },
+  {
+    "name": "Electabuzz",
+    "idx": 56,
+    "id": "A2-056",
+    "type": 0
+  },
+  {
+    "name": "Electivire",
+    "idx": 57,
+    "id": "A2-057",
+    "type": 1
+  },
+  {
+    "name": "Shinx",
+    "idx": 58,
+    "id": "A2-058",
+    "type": 0
+  },
+  {
+    "name": "Luxio",
+    "idx": 59,
+    "id": "A2-059",
+    "type": 1
+  },
+  {
+    "name": "Luxray",
+    "idx": 60,
+    "id": "A2-060",
+    "type": 2
+  },
+  {
+    "name": "Pachirisu ex",
+    "idx": 61,
+    "id": "A2-061",
+    "type": 0
+  },
+  {
+    "name": "Rotom",
+    "idx": 62,
+    "id": "A2-062",
+    "type": 0
+  },
+  {
+    "name": "Togepi",
+    "idx": 63,
+    "id": "A2-063",
+    "type": 0
+  },
+  {
+    "name": "Togetic",
+    "idx": 64,
+    "id": "A2-064",
+    "type": 1
+  },
+  {
+    "name": "Togekiss",
+    "idx": 65,
+    "id": "A2-065",
+    "type": 2
+  },
+  {
+    "name": "Misdreavus",
+    "idx": 66,
+    "id": "A2-066",
+    "type": 0
+  },
+  {
+    "name": "Mismagius ex",
+    "idx": 67,
+    "id": "A2-067",
+    "type": 1
+  },
+  {
+    "name": "Ralts",
+    "idx": 68,
+    "id": "A2-068",
+    "type": 0
+  },
+  {
+    "name": "Kirlia",
+    "idx": 69,
+    "id": "A2-069",
+    "type": 1
+  },
+  {
+    "name": "Duskull",
+    "idx": 70,
+    "id": "A2-070",
+    "type": 0
+  },
+  {
+    "name": "Dusclops",
+    "idx": 71,
+    "id": "A2-071",
+    "type": 1
+  },
+  {
+    "name": "Dusknoir",
+    "idx": 72,
+    "id": "A2-072",
+    "type": 2
+  },
+  {
+    "name": "Drifloon",
+    "idx": 73,
+    "id": "A2-073",
+    "type": 0
+  },
+  {
+    "name": "Drifblim",
+    "idx": 74,
+    "id": "A2-074",
+    "type": 1
+  },
+  {
+    "name": "Uxie",
+    "idx": 75,
+    "id": "A2-075",
+    "type": 0
+  },
+  {
+    "name": "Mesprit",
+    "idx": 76,
+    "id": "A2-076",
+    "type": 0
+  },
+  {
+    "name": "Azelf",
+    "idx": 77,
+    "id": "A2-077",
+    "type": 0
+  },
+  {
+    "name": "Giratina",
+    "idx": 78,
+    "id": "A2-078",
+    "type": 0
+  },
+  {
+    "name": "Cresselia",
+    "idx": 79,
+    "id": "A2-079",
+    "type": 0
+  },
+  {
+    "name": "Rhyhorn",
+    "idx": 80,
+    "id": "A2-080",
+    "type": 0
+  },
+  {
+    "name": "Rhydon",
+    "idx": 81,
+    "id": "A2-081",
+    "type": 1
+  },
+  {
+    "name": "Rhyperior",
+    "idx": 82,
+    "id": "A2-082",
+    "type": 2
+  },
+  {
+    "name": "Gligar",
+    "idx": 83,
+    "id": "A2-083",
+    "type": 0
+  },
+  {
+    "name": "Gliscor",
+    "idx": 84,
+    "id": "A2-084",
+    "type": 1
+  },
+  {
+    "name": "Hitmontop",
+    "idx": 85,
+    "id": "A2-085",
+    "type": 0
+  },
+  {
+    "name": "Nosepass",
+    "idx": 86,
+    "id": "A2-086",
+    "type": 0
+  },
+  {
+    "name": "Regirock",
+    "idx": 87,
+    "id": "A2-087",
+    "type": 0
+  },
+  {
+    "name": "Cranidos",
+    "idx": 88,
+    "id": "A2-088",
+    "type": 1
+  },
+  {
+    "name": "Rampardos",
+    "idx": 89,
+    "id": "A2-089",
+    "type": 2
+  },
+  {
+    "name": "Wormadam",
+    "idx": 90,
+    "id": "A2-090",
+    "type": 1
+  },
+  {
+    "name": "Riolu",
+    "idx": 91,
+    "id": "A2-091",
+    "type": 0
+  },
+  {
+    "name": "Lucario",
+    "idx": 92,
+    "id": "A2-092",
+    "type": 1
+  },
+  {
+    "name": "Hippopotas",
+    "idx": 93,
+    "id": "A2-093",
+    "type": 0
+  },
+  {
+    "name": "Hippowdon",
+    "idx": 94,
+    "id": "A2-094",
+    "type": 1
+  },
+  {
+    "name": "Gallade ex",
+    "idx": 95,
+    "id": "A2-095",
+    "type": 2
+  },
+  {
+    "name": "Murkrow",
+    "idx": 96,
+    "id": "A2-096",
+    "type": 0
+  },
+  {
+    "name": "Honchkrow",
+    "idx": 97,
+    "id": "A2-097",
+    "type": 1
+  },
+  {
+    "name": "Sneasel",
+    "idx": 98,
+    "id": "A2-098",
+    "type": 0
+  },
+  {
+    "name": "Weavile ex",
+    "idx": 99,
+    "id": "A2-099",
+    "type": 1
+  },
+  {
+    "name": "Poochyena",
+    "idx": 100,
+    "id": "A2-100",
+    "type": 0
+  },
+  {
+    "name": "Mightyena",
+    "idx": 101,
+    "id": "A2-101",
+    "type": 1
+  },
+  {
+    "name": "Stunky",
+    "idx": 102,
+    "id": "A2-102",
+    "type": 0
+  },
+  {
+    "name": "Skuntank",
+    "idx": 103,
+    "id": "A2-103",
+    "type": 1
+  },
+  {
+    "name": "Spiritomb",
+    "idx": 104,
+    "id": "A2-104",
+    "type": 0
+  },
+  {
+    "name": "Skorupi",
+    "idx": 105,
+    "id": "A2-105",
+    "type": 0
+  },
+  {
+    "name": "Drapion",
+    "idx": 106,
+    "id": "A2-106",
+    "type": 1
+  },
+  {
+    "name": "Croagunk",
+    "idx": 107,
+    "id": "A2-107",
+    "type": 0
+  },
+  {
+    "name": "Toxicroak",
+    "idx": 108,
+    "id": "A2-108",
+    "type": 1
+  },
+  {
+    "name": "Darkrai",
+    "idx": 109,
+    "id": "A2-109",
+    "type": 0
+  },
+  {
+    "name": "Darkrai ex",
+    "idx": 110,
+    "id": "A2-110",
+    "type": 0
+  },
+  {
+    "name": "Skarmory",
+    "idx": 111,
+    "id": "A2-111",
+    "type": 0
+  },
+  {
+    "name": "Registeel",
+    "idx": 112,
+    "id": "A2-112",
+    "type": 0
+  },
+  {
+    "name": "Shieldon",
+    "idx": 113,
+    "id": "A2-113",
+    "type": 1
+  },
+  {
+    "name": "Bastiodon",
+    "idx": 114,
+    "id": "A2-114",
+    "type": 2
+  },
+  {
+    "name": "Wormadam",
+    "idx": 115,
+    "id": "A2-115",
+    "type": 1
+  },
+  {
+    "name": "Bronzor",
+    "idx": 116,
+    "id": "A2-116",
+    "type": 0
+  },
+  {
+    "name": "Bronzong",
+    "idx": 117,
+    "id": "A2-117",
+    "type": 1
+  },
+  {
+    "name": "Probopass",
+    "idx": 118,
+    "id": "A2-118",
+    "type": 1
+  },
+  {
+    "name": "Dialga ex",
+    "idx": 119,
+    "id": "A2-119",
+    "type": 0
+  },
+  {
+    "name": "Heatran",
+    "idx": 120,
+    "id": "A2-120",
+    "type": 0
+  },
+  {
+    "name": "Gible",
+    "idx": 121,
+    "id": "A2-121",
+    "type": 0
+  },
+  {
+    "name": "Gabite",
+    "idx": 122,
+    "id": "A2-122",
+    "type": 1
+  },
+  {
+    "name": "Garchomp",
+    "idx": 123,
+    "id": "A2-123",
+    "type": 2
+  },
+  {
+    "name": "Lickitung",
+    "idx": 124,
+    "id": "A2-124",
+    "type": 0
+  },
+  {
+    "name": "Lickilicky ex",
+    "idx": 125,
+    "id": "A2-125",
+    "type": 1
+  },
+  {
+    "name": "Eevee",
+    "idx": 126,
+    "id": "A2-126",
+    "type": 0
+  },
+  {
+    "name": "Porygon",
+    "idx": 127,
+    "id": "A2-127",
+    "type": 0
+  },
+  {
+    "name": "Porygon2",
+    "idx": 128,
+    "id": "A2-128",
+    "type": 1
+  },
+  {
+    "name": "Porygon-Z",
+    "idx": 129,
+    "id": "A2-129",
+    "type": 2
+  },
+  {
+    "name": "Aipom",
+    "idx": 130,
+    "id": "A2-130",
+    "type": 0
+  },
+  {
+    "name": "Ambipom",
+    "idx": 131,
+    "id": "A2-131",
+    "type": 1
+  },
+  {
+    "name": "Starly",
+    "idx": 132,
+    "id": "A2-132",
+    "type": 0
+  },
+  {
+    "name": "Staravia",
+    "idx": 133,
+    "id": "A2-133",
+    "type": 1
+  },
+  {
+    "name": "Staraptor",
+    "idx": 134,
+    "id": "A2-134",
+    "type": 2
+  },
+  {
+    "name": "Bidoof",
+    "idx": 135,
+    "id": "A2-135",
+    "type": 0
+  },
+  {
+    "name": "Bibarel",
+    "idx": 136,
+    "id": "A2-136",
+    "type": 1
+  },
+  {
+    "name": "Buneary",
+    "idx": 137,
+    "id": "A2-137",
+    "type": 0
+  },
+  {
+    "name": "Lopunny",
+    "idx": 138,
+    "id": "A2-138",
+    "type": 1
+  },
+  {
+    "name": "Glameow",
+    "idx": 139,
+    "id": "A2-139",
+    "type": 0
+  },
+  {
+    "name": "Purugly",
+    "idx": 140,
+    "id": "A2-140",
+    "type": 1
+  },
+  {
+    "name": "Chatot",
+    "idx": 141,
+    "id": "A2-141",
+    "type": 0
+  },
+  {
+    "name": "Fan Rotom",
+    "idx": 142,
+    "id": "A2-142",
+    "type": 0
+  },
+  {
+    "name": "Regigigas",
+    "idx": 143,
+    "id": "A2-143",
+    "type": 0
+  },
+  {
+    "name": "Skull Fossil",
+    "idx": 144,
+    "id": "A2-144",
+    "type": 5
+  },
+  {
+    "name": "Armor Fossil",
+    "idx": 145,
+    "id": "A2-145",
+    "type": 5
+  },
+  {
+    "name": "Pokémon Communication",
+    "idx": 146,
+    "id": "A2-146",
+    "type": 5
+  },
+  {
+    "name": "Giant Cape",
+    "idx": 147,
+    "id": "A2-147",
+    "type": 6
+  },
+  {
+    "name": "Rocky Helmet",
+    "idx": 148,
+    "id": "A2-148",
+    "type": 6
+  },
+  {
+    "name": "Lum Berry",
+    "idx": 149,
+    "id": "A2-149",
+    "type": 6
+  },
+  {
+    "name": "Cyrus",
+    "idx": 150,
+    "id": "A2-150",
+    "type": 4
+  },
+  {
+    "name": "Team Galactic Grunt",
+    "idx": 151,
+    "id": "A2-151",
+    "type": 4
+  },
+  {
+    "name": "Cynthia",
+    "idx": 152,
+    "id": "A2-152",
+    "type": 4
+  },
+  {
+    "name": "Volkner",
+    "idx": 153,
+    "id": "A2-153",
+    "type": 4
+  },
+  {
+    "name": "Dawn",
+    "idx": 154,
+    "id": "A2-154",
+    "type": 4
+  },
+  {
+    "name": "Mars",
+    "idx": 155,
+    "id": "A2-155",
+    "type": 4
+  },
+  {
+    "name": "Tangrowth",
+    "idx": 156,
+    "id": "A2-156",
+    "type": 1
+  },
+  {
+    "name": "Combee",
+    "idx": 157,
+    "id": "A2-157",
+    "type": 0
+  },
+  {
+    "name": "Carnivine",
+    "idx": 158,
+    "id": "A2-158",
+    "type": 0
+  },
+  {
+    "name": "Shaymin",
+    "idx": 159,
+    "id": "A2-159",
+    "type": 0
+  },
+  {
+    "name": "Mamoswine",
+    "idx": 160,
+    "id": "A2-160",
+    "type": 2
+  },
+  {
+    "name": "Gastrodon",
+    "idx": 161,
+    "id": "A2-161",
+    "type": 1
+  },
+  {
+    "name": "Manaphy",
+    "idx": 162,
+    "id": "A2-162",
+    "type": 0
+  },
+  {
+    "name": "Shinx",
+    "idx": 163,
+    "id": "A2-163",
+    "type": 0
+  },
+  {
+    "name": "Rotom",
+    "idx": 164,
+    "id": "A2-164",
+    "type": 0
+  },
+  {
+    "name": "Drifloon",
+    "idx": 165,
+    "id": "A2-165",
+    "type": 0
+  },
+  {
+    "name": "Mesprit",
+    "idx": 166,
+    "id": "A2-166",
+    "type": 0
+  },
+  {
+    "name": "Giratina",
+    "idx": 167,
+    "id": "A2-167",
+    "type": 0
+  },
+  {
+    "name": "Cresselia",
+    "idx": 168,
+    "id": "A2-168",
+    "type": 0
+  },
+  {
+    "name": "Rhyperior",
+    "idx": 169,
+    "id": "A2-169",
+    "type": 2
+  },
+  {
+    "name": "Lucario",
+    "idx": 170,
+    "id": "A2-170",
+    "type": 1
+  },
+  {
+    "name": "Hippopotas",
+    "idx": 171,
+    "id": "A2-171",
+    "type": 0
+  },
+  {
+    "name": "Spiritomb",
+    "idx": 172,
+    "id": "A2-172",
+    "type": 0
+  },
+  {
+    "name": "Croagunk",
+    "idx": 173,
+    "id": "A2-173",
+    "type": 0
+  },
+  {
+    "name": "Heatran",
+    "idx": 174,
+    "id": "A2-174",
+    "type": 0
+  },
+  {
+    "name": "Garchomp",
+    "idx": 175,
+    "id": "A2-175",
+    "type": 2
+  },
+  {
+    "name": "Staraptor",
+    "idx": 176,
+    "id": "A2-176",
+    "type": 2
+  },
+  {
+    "name": "Bidoof",
+    "idx": 177,
+    "id": "A2-177",
+    "type": 0
+  },
+  {
+    "name": "Glameow",
+    "idx": 178,
+    "id": "A2-178",
+    "type": 0
+  },
+  {
+    "name": "Regigigas",
+    "idx": 179,
+    "id": "A2-179",
+    "type": 0
+  },
+  {
+    "name": "Yanmega ex",
+    "idx": 180,
+    "id": "A2-180",
+    "type": 1
+  },
+  {
+    "name": "Infernape ex",
+    "idx": 181,
+    "id": "A2-181",
+    "type": 2
+  },
+  {
+    "name": "Palkia ex",
+    "idx": 182,
+    "id": "A2-182",
+    "type": 0
+  },
+  {
+    "name": "Pachirisu ex",
+    "idx": 183,
+    "id": "A2-183",
+    "type": 0
+  },
+  {
+    "name": "Mismagius ex",
+    "idx": 184,
+    "id": "A2-184",
+    "type": 1
+  },
+  {
+    "name": "Gallade ex",
+    "idx": 185,
+    "id": "A2-185",
+    "type": 2
+  },
+  {
+    "name": "Weavile ex",
+    "idx": 186,
+    "id": "A2-186",
+    "type": 1
+  },
+  {
+    "name": "Darkrai ex",
+    "idx": 187,
+    "id": "A2-187",
+    "type": 0
+  },
+  {
+    "name": "Dialga ex",
+    "idx": 188,
+    "id": "A2-188",
+    "type": 0
+  },
+  {
+    "name": "Lickilicky ex",
+    "idx": 189,
+    "id": "A2-189",
+    "type": 1
+  },
+  {
+    "name": "Cyrus",
+    "idx": 190,
+    "id": "A2-190",
+    "type": 4
+  },
+  {
+    "name": "Team Galactic Grunt",
+    "idx": 191,
+    "id": "A2-191",
+    "type": 4
+  },
+  {
+    "name": "Cynthia",
+    "idx": 192,
+    "id": "A2-192",
+    "type": 4
+  },
+  {
+    "name": "Volkner",
+    "idx": 193,
+    "id": "A2-193",
+    "type": 4
+  },
+  {
+    "name": "Dawn",
+    "idx": 194,
+    "id": "A2-194",
+    "type": 4
+  },
+  {
+    "name": "Mars",
+    "idx": 195,
+    "id": "A2-195",
+    "type": 4
+  },
+  {
+    "name": "Yanmega ex",
+    "idx": 196,
+    "id": "A2-196",
+    "type": 1
+  },
+  {
+    "name": "Infernape ex",
+    "idx": 197,
+    "id": "A2-197",
+    "type": 2
+  },
+  {
+    "name": "Pachirisu ex",
+    "idx": 198,
+    "id": "A2-198",
+    "type": 0
+  },
+  {
+    "name": "Mismagius ex",
+    "idx": 199,
+    "id": "A2-199",
+    "type": 1
+  },
+  {
+    "name": "Gallade ex",
+    "idx": 200,
+    "id": "A2-200",
+    "type": 2
+  },
+  {
+    "name": "Weavile ex",
+    "idx": 201,
+    "id": "A2-201",
+    "type": 1
+  },
+  {
+    "name": "Darkrai ex",
+    "idx": 202,
+    "id": "A2-202",
+    "type": 0
+  },
+  {
+    "name": "Lickilicky ex",
+    "idx": 203,
+    "id": "A2-203",
+    "type": 1
+  },
+  {
+    "name": "Palkia ex",
+    "idx": 204,
+    "id": "A2-204",
+    "type": 0
+  },
+  {
+    "name": "Dialga ex",
+    "idx": 205,
+    "id": "A2-205",
+    "type": 0
+  },
+  {
+    "name": "Palkia ex",
+    "idx": 206,
+    "id": "A2-206",
+    "type": 0
+  },
+  {
+    "name": "Dialga ex",
+    "idx": 207,
+    "id": "A2-207",
+    "type": 0
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Hoppip",
+    "idx": 1,
+    "id": "A4a-001",
+    "type": 0
+  },
+  {
+    "name": "Skiploom",
+    "idx": 2,
+    "id": "A4a-002",
+    "type": 1
+  },
+  {
+    "name": "Jumpluff ex",
+    "idx": 3,
+    "id": "A4a-003",
+    "type": 2
+  },
+  {
+    "name": "Sunkern",
+    "idx": 4,
+    "id": "A4a-004",
+    "type": 0
+  },
+  {
+    "name": "Sunflora",
+    "idx": 5,
+    "id": "A4a-005",
+    "type": 1
+  },
+  {
+    "name": "Celebi",
+    "idx": 6,
+    "id": "A4a-006",
+    "type": 0
+  },
+  {
+    "name": "Durant",
+    "idx": 7,
+    "id": "A4a-007",
+    "type": 0
+  },
+  {
+    "name": "Slugma",
+    "idx": 8,
+    "id": "A4a-008",
+    "type": 0
+  },
+  {
+    "name": "Magcargo",
+    "idx": 9,
+    "id": "A4a-009",
+    "type": 1
+  },
+  {
+    "name": "Entei ex",
+    "idx": 10,
+    "id": "A4a-010",
+    "type": 0
+  },
+  {
+    "name": "Fletchinder",
+    "idx": 11,
+    "id": "A4a-011",
+    "type": 1
+  },
+  {
+    "name": "Talonflame",
+    "idx": 12,
+    "id": "A4a-012",
+    "type": 2
+  },
+  {
+    "name": "Poliwag",
+    "idx": 13,
+    "id": "A4a-013",
+    "type": 0
+  },
+  {
+    "name": "Poliwhirl",
+    "idx": 14,
+    "id": "A4a-014",
+    "type": 1
+  },
+  {
+    "name": "Tentacool",
+    "idx": 15,
+    "id": "A4a-015",
+    "type": 0
+  },
+  {
+    "name": "Tentacruel",
+    "idx": 16,
+    "id": "A4a-016",
+    "type": 1
+  },
+  {
+    "name": "Slowpoke",
+    "idx": 17,
+    "id": "A4a-017",
+    "type": 0
+  },
+  {
+    "name": "Slowking",
+    "idx": 18,
+    "id": "A4a-018",
+    "type": 1
+  },
+  {
+    "name": "Jynx",
+    "idx": 19,
+    "id": "A4a-019",
+    "type": 0
+  },
+  {
+    "name": "Suicune ex",
+    "idx": 20,
+    "id": "A4a-020",
+    "type": 0
+  },
+  {
+    "name": "Feebas",
+    "idx": 21,
+    "id": "A4a-021",
+    "type": 0
+  },
+  {
+    "name": "Milotic",
+    "idx": 22,
+    "id": "A4a-022",
+    "type": 1
+  },
+  {
+    "name": "Mantyke",
+    "idx": 23,
+    "id": "A4a-023",
+    "type": 0
+  },
+  {
+    "name": "Cryogonal",
+    "idx": 24,
+    "id": "A4a-024",
+    "type": 0
+  },
+  {
+    "name": "Raikou ex",
+    "idx": 25,
+    "id": "A4a-025",
+    "type": 0
+  },
+  {
+    "name": "Tynamo",
+    "idx": 26,
+    "id": "A4a-026",
+    "type": 0
+  },
+  {
+    "name": "Eelektrik",
+    "idx": 27,
+    "id": "A4a-027",
+    "type": 1
+  },
+  {
+    "name": "Eelektross",
+    "idx": 28,
+    "id": "A4a-028",
+    "type": 2
+  },
+  {
+    "name": "Stunfisk",
+    "idx": 29,
+    "id": "A4a-029",
+    "type": 0
+  },
+  {
+    "name": "Yamper",
+    "idx": 30,
+    "id": "A4a-030",
+    "type": 0
+  },
+  {
+    "name": "Boltund",
+    "idx": 31,
+    "id": "A4a-031",
+    "type": 1
+  },
+  {
+    "name": "Misdreavus",
+    "idx": 32,
+    "id": "A4a-032",
+    "type": 0
+  },
+  {
+    "name": "Mismagius",
+    "idx": 33,
+    "id": "A4a-033",
+    "type": 1
+  },
+  {
+    "name": "Galarian Corsola",
+    "idx": 34,
+    "id": "A4a-034",
+    "type": 0
+  },
+  {
+    "name": "Galarian Cursola",
+    "idx": 35,
+    "id": "A4a-035",
+    "type": 1
+  },
+  {
+    "name": "Latias",
+    "idx": 36,
+    "id": "A4a-036",
+    "type": 0
+  },
+  {
+    "name": "Latios",
+    "idx": 37,
+    "id": "A4a-037",
+    "type": 0
+  },
+  {
+    "name": "Frillish",
+    "idx": 38,
+    "id": "A4a-038",
+    "type": 0
+  },
+  {
+    "name": "Jellicent",
+    "idx": 39,
+    "id": "A4a-039",
+    "type": 1
+  },
+  {
+    "name": "Diglett",
+    "idx": 40,
+    "id": "A4a-040",
+    "type": 0
+  },
+  {
+    "name": "Dugtrio",
+    "idx": 41,
+    "id": "A4a-041",
+    "type": 1
+  },
+  {
+    "name": "Poliwrath ex",
+    "idx": 42,
+    "id": "A4a-042",
+    "type": 2
+  },
+  {
+    "name": "Phanpy",
+    "idx": 43,
+    "id": "A4a-043",
+    "type": 0
+  },
+  {
+    "name": "Donphan",
+    "idx": 44,
+    "id": "A4a-044",
+    "type": 1
+  },
+  {
+    "name": "Relicanth",
+    "idx": 45,
+    "id": "A4a-045",
+    "type": 0
+  },
+  {
+    "name": "Dwebble",
+    "idx": 46,
+    "id": "A4a-046",
+    "type": 0
+  },
+  {
+    "name": "Crustle",
+    "idx": 47,
+    "id": "A4a-047",
+    "type": 1
+  },
+  {
+    "name": "Seviper",
+    "idx": 48,
+    "id": "A4a-048",
+    "type": 0
+  },
+  {
+    "name": "Zorua",
+    "idx": 49,
+    "id": "A4a-049",
+    "type": 0
+  },
+  {
+    "name": "Zoroark",
+    "idx": 50,
+    "id": "A4a-050",
+    "type": 1
+  },
+  {
+    "name": "Inkay",
+    "idx": 51,
+    "id": "A4a-051",
+    "type": 0
+  },
+  {
+    "name": "Malamar",
+    "idx": 52,
+    "id": "A4a-052",
+    "type": 1
+  },
+  {
+    "name": "Skrelp",
+    "idx": 53,
+    "id": "A4a-053",
+    "type": 0
+  },
+  {
+    "name": "Dragalge",
+    "idx": 54,
+    "id": "A4a-054",
+    "type": 1
+  },
+  {
+    "name": "Altaria",
+    "idx": 55,
+    "id": "A4a-055",
+    "type": 1
+  },
+  {
+    "name": "Farfetch'd",
+    "idx": 56,
+    "id": "A4a-056",
+    "type": 0
+  },
+  {
+    "name": "Lickitung",
+    "idx": 57,
+    "id": "A4a-057",
+    "type": 0
+  },
+  {
+    "name": "Lickilicky",
+    "idx": 58,
+    "id": "A4a-058",
+    "type": 1
+  },
+  {
+    "name": "Igglybuff",
+    "idx": 59,
+    "id": "A4a-059",
+    "type": 0
+  },
+  {
+    "name": "Teddiursa",
+    "idx": 60,
+    "id": "A4a-060",
+    "type": 0
+  },
+  {
+    "name": "Ursaring",
+    "idx": 61,
+    "id": "A4a-061",
+    "type": 1
+  },
+  {
+    "name": "Miltank",
+    "idx": 62,
+    "id": "A4a-062",
+    "type": 0
+  },
+  {
+    "name": "Azurill",
+    "idx": 63,
+    "id": "A4a-063",
+    "type": 0
+  },
+  {
+    "name": "Swablu",
+    "idx": 64,
+    "id": "A4a-064",
+    "type": 0
+  },
+  {
+    "name": "Zangoose",
+    "idx": 65,
+    "id": "A4a-065",
+    "type": 0
+  },
+  {
+    "name": "Fletchling",
+    "idx": 66,
+    "id": "A4a-066",
+    "type": 0
+  },
+  {
+    "name": "Inflatable Boat",
+    "idx": 67,
+    "id": "A4a-067",
+    "type": 6
+  },
+  {
+    "name": "Memory Light",
+    "idx": 68,
+    "id": "A4a-068",
+    "type": 6
+  },
+  {
+    "name": "Whitney",
+    "idx": 69,
+    "id": "A4a-069",
+    "type": 4
+  },
+  {
+    "name": "Traveling Merchant",
+    "idx": 70,
+    "id": "A4a-070",
+    "type": 4
+  },
+  {
+    "name": "Morty",
+    "idx": 71,
+    "id": "A4a-071",
+    "type": 4
+  },
+  {
+    "name": "Milotic",
+    "idx": 72,
+    "id": "A4a-072",
+    "type": 1
+  },
+  {
+    "name": "Stunfisk",
+    "idx": 73,
+    "id": "A4a-073",
+    "type": 0
+  },
+  {
+    "name": "Yamper",
+    "idx": 74,
+    "id": "A4a-074",
+    "type": 0
+  },
+  {
+    "name": "Latios",
+    "idx": 75,
+    "id": "A4a-075",
+    "type": 0
+  },
+  {
+    "name": "Phanpy",
+    "idx": 76,
+    "id": "A4a-076",
+    "type": 0
+  },
+  {
+    "name": "Azurill",
+    "idx": 77,
+    "id": "A4a-077",
+    "type": 0
+  },
+  {
+    "name": "Jumpluff ex",
+    "idx": 78,
+    "id": "A4a-078",
+    "type": 2
+  },
+  {
+    "name": "Entei ex",
+    "idx": 79,
+    "id": "A4a-079",
+    "type": 0
+  },
+  {
+    "name": "Suicune ex",
+    "idx": 80,
+    "id": "A4a-080",
+    "type": 0
+  },
+  {
+    "name": "Raikou ex",
+    "idx": 81,
+    "id": "A4a-081",
+    "type": 0
+  },
+  {
+    "name": "Poliwrath ex",
+    "idx": 82,
+    "id": "A4a-082",
+    "type": 2
+  },
+  {
+    "name": "Whitney",
+    "idx": 83,
+    "id": "A4a-083",
+    "type": 4
+  },
+  {
+    "name": "Traveling Merchant",
+    "idx": 84,
+    "id": "A4a-084",
+    "type": 4
+  },
+  {
+    "name": "Morty",
+    "idx": 85,
+    "id": "A4a-085",
+    "type": 4
+  },
+  {
+    "name": "Jumpluff ex",
+    "idx": 86,
+    "id": "A4a-086",
+    "type": 2
+  },
+  {
+    "name": "Entei ex",
+    "idx": 87,
+    "id": "A4a-087",
+    "type": 0
+  },
+  {
+    "name": "Raikou ex",
+    "idx": 88,
+    "id": "A4a-088",
+    "type": 0
+  },
+  {
+    "name": "Poliwrath ex",
+    "idx": 89,
+    "id": "A4a-089",
+    "type": 2
+  },
+  {
+    "name": "Suicune ex",
+    "idx": 90,
+    "id": "A4a-090",
+    "type": 0
+  },
+  {
+    "name": "Chimchar",
+    "idx": 91,
+    "id": "A4a-091",
+    "type": 0
+  },
+  {
+    "name": "Monferno",
+    "idx": 92,
+    "id": "A4a-092",
+    "type": 1
+  },
+  {
+    "name": "Psyduck",
+    "idx": 93,
+    "id": "A4a-093",
+    "type": 0
+  },
+  {
+    "name": "Golduck",
+    "idx": 94,
+    "id": "A4a-094",
+    "type": 1
+  },
+  {
+    "name": "Krabby",
+    "idx": 95,
+    "id": "A4a-095",
+    "type": 0
+  },
+  {
+    "name": "Kingler",
+    "idx": 96,
+    "id": "A4a-096",
+    "type": 1
+  },
+  {
+    "name": "Pyukumuku",
+    "idx": 97,
+    "id": "A4a-097",
+    "type": 0
+  },
+  {
+    "name": "Gible",
+    "idx": 98,
+    "id": "A4a-098",
+    "type": 0
+  },
+  {
+    "name": "Gabite",
+    "idx": 99,
+    "id": "A4a-099",
+    "type": 1
+  },
+  {
+    "name": "Paldean Wooper",
+    "idx": 100,
+    "id": "A4a-100",
+    "type": 0
+  },
+  {
+    "name": "Infernape ex",
+    "idx": 101,
+    "id": "A4a-101",
+    "type": 2
+  },
+  {
+    "name": "Mew ex",
+    "idx": 102,
+    "id": "A4a-102",
+    "type": 0
+  },
+  {
+    "name": "Garchomp ex",
+    "idx": 103,
+    "id": "A4a-103",
+    "type": 2
+  },
+  {
+    "name": "Paldean Clodsire ex",
+    "idx": 104,
+    "id": "A4a-104",
+    "type": 1
+  },
+  {
+    "name": "Mantyke",
+    "idx": 105,
+    "id": "A4a-105",
+    "type": 0
+  }
+]
