@@ -8,17 +8,9 @@ export enum CardType {
   UNKNOWN,
 }
 
-
 export interface ICLIArguments {
   iterations?: number;
   deck?: string;
   update?: boolean;
   verbose?: boolean;
-}
-
-export interface ICardData {
-  name: string;
-  idx: number;
-  id: string;
-  type: CardType;
 }

@@ -1,23 +1,17 @@
 import { Command } from "commander";
 import { readFileSync } from "fs";
-import { analyseAndPrintResults } from "./functions/analyseAndPrintResults";
-import { CardType, ICardData, ICLIArguments } from "./types";
-import { updateDataFiles } from "./functions/updateDataFiles";
+import { analyseAndPrintResults } from "./functions";
+import { CardType, ICLIArguments } from "./types";
 import os from "node:os";
 import path from "node:path";
 import { Worker } from "node:worker_threads";
+import { type Card } from "../lib/pokemon-tcg-pocket-card-database/index";
+import { en as cardSets } from "../lib/pokemon-tcg-pocket-card-database";
 
 async function main(args: string[], opts: ICLIArguments) {
   let verbose = opts?.verbose ?? false;
   let dataPath = opts?.deck ?? "./data/example-deck.json";
   let iterations = opts?.iterations ?? 100000;
-  let update = opts?.update ?? false;
-
-  if (update) {
-    if (verbose) console.log("Updating data files...");
-    await updateDataFiles(verbose);
-    return;
-  }
 
   // load deck file
   const deckDataBuffer = readFileSync(dataPath, "utf-8");
@@ -26,39 +20,22 @@ async function main(args: string[], opts: ICLIArguments) {
   }
   const deck = JSON.parse(deckDataBuffer) as Array<string>;
   // load set data relevant to deck
-  const setIds: string[] = [];
-  for (const cardId of deck) {
-    const splitId = cardId.split("-");
-    const setId = splitId.slice(0, -1).join("-");
-    if (!setIds.includes(setId)) {
-      setIds.push(setId);
-    }
-  }
-  const sets: Record<string, Array<ICardData>> = {};
-  for (const setId of setIds) {
-    const path = `./data/sets-${setId}.json`;
-    const setDataBuffer = readFileSync(path, "utf-8");
-    if (!setDataBuffer) {
-      throw new Error(`Failed to read set data from path: ${path}`);
-    }
-    sets[setId] = JSON.parse(setDataBuffer) as Array<ICardData>;
-  }
+  const sets = cardSets;
+  const setsAsArray = Object.values(cardSets);
   // convert deck to Uint8Array, with values being the deck index and last bit indicating if card is Basic
   const deckCards: Uint8Array = new Uint8Array(deck.length);
   for (let i = 0; i < deck.length; i++) {
-    const cardId = deck[i];
-    const splitId = cardId.split("-");
-    const setId = splitId.slice(0, -1).join("-");
-    const setData = sets[setId];
+    const cardId = deck[i].toLowerCase();
+    const setData = setsAsArray.find(s => s.find((c) => c.id === cardId));
     if (!setData) {
-      throw new Error(`Set data not found for set ID: ${setId}`);
+      throw new Error(`Set data not found for card ID: ${cardId}`);
     }
     const cardData = setData.find(c => c.id === cardId);
     if (!cardData) {
       throw new Error(`Card data not found for card ID: ${cardId}`);
     }
     let value = i << 1; // shift left to make space for isBasic bit
-    if (cardData.type === CardType.Basic) {
+    if (cardData.type === "Pokemon" && cardData.subtype === "Basic") {
       value |= 1; // set last bit if Basic
     }
     deckCards[i] = value;
@@ -149,7 +126,8 @@ async function main(args: string[], opts: ICLIArguments) {
     analyseAndPrintResults(
       outputArray,
       deck,
-      sets,
+      // @ts-expect-error TS cannot infer correctly here
+      sets as typeof cardSets,
       handSize,
       iterations,
     );
@@ -173,6 +151,7 @@ async function main(args: string[], opts: ICLIArguments) {
     analyseAndPrintResults(
       outputArray,
       deck,
+      // @ts-expect-error TS cannot infer correctly here
       sets,
       handSize,
       iterations,
@@ -187,8 +166,7 @@ program
 program
   .option("-i, --iterations <number>", "Number of iterations to conduct", "100000")
   .option("-d, --deck <path>", "Path to JSON file containing the cards in the deck", "./data/example-deck.json")
-  .option("-v, --verbose", "Enables additional logging")
-  .option("-u, --update", "Updates data files then exits");
+  .option("-v, --verbose", "Enables additional logging");
 
 program
   .showHelpAfterError()
