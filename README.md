@@ -6,17 +6,28 @@ Example output:
 
 ```
 How often each card ID was drawn in starting hands:
-Card ID: P-A-116 (Shaymin), Drawn: 684768 times, Frequency: 68.48%
-Card ID: A2b-001 (Weedle), Drawn: 684544 times, Frequency: 68.45%
-Card ID: B1a-005 (Spinarak), Drawn: 683606 times, Frequency: 68.36%
-Card ID: A3-147 (Leaf Cape), Drawn: 421393 times, Frequency: 42.14%
-Card ID: B1a-070 (Ariados), Drawn: 421142 times, Frequency: 42.11%
-Card ID: A2b-002 (Kakuna), Drawn: 421026 times, Frequency: 42.10%
-Card ID: P-A-007 (Professor's Research), Drawn: 420987 times, Frequency: 42.10%
-Card ID: A3-144 (Rare Candy), Drawn: 420700 times, Frequency: 42.07%
-Card ID: A2b-003 (Beedrill ex), Drawn: 420499 times, Frequency: 42.05%
-Card ID: P-A-005 (Poké Ball), Drawn: 211353 times, Frequency: 21.14%
-Card ID: A2-146 (Pokémon Communication), Drawn: 209982 times, Frequency: 21.00%
+Card ID: p-a-116 (Shaymin), Drawn: 68338 times, Frequency: 68.34%
+Card ID: b1a-005 (Spinarak), Drawn: 68271 times, Frequency: 68.27%
+Card ID: a2b-001 (Weedle), Drawn: 68247 times, Frequency: 68.25%
+Card ID: a3-144 (Rare Candy), Drawn: 42337 times, Frequency: 42.34%
+Card ID: a2b-003 (Beedrill ex), Drawn: 42194 times, Frequency: 42.19%
+Card ID: a2b-002 (Kakuna), Drawn: 42156 times, Frequency: 42.16%
+Card ID: a3-147 (Leaf Cape), Drawn: 42080 times, Frequency: 42.08%
+Card ID: p-a-007 (Professor's Research), Drawn: 42008 times, Frequency: 42.01%
+Card ID: b1a-070 (Ariados), Drawn: 41946 times, Frequency: 41.95%
+Card ID: a2-146 (Pokémon Communication), Drawn: 21290 times, Frequency: 21.29%
+Card ID: p-a-005 (Poké Ball), Drawn: 21133 times, Frequency: 21.13%
+
+How often each basic Pokemon was the guaranteed basic in starting hands:
+Basic Pokemon ID: b1a-005 (Spinarak), Guaranteed Basic: 33395 times, Frequency: 33.40%
+Basic Pokemon ID: p-a-116 (Shaymin), Guaranteed Basic: 33381 times, Frequency: 33.38%
+Basic Pokemon ID: a2b-001 (Weedle), Guaranteed Basic: 33224 times, Frequency: 33.22%
+
+How often each basic Pokemon was drawn in addition to the guaranteed basic:
+Basic Pokemon ID: a2b-001 (Weedle), Additional Basic: 35023 times, Frequency: 35.02%
+Basic Pokemon ID: p-a-116 (Shaymin), Additional Basic: 34957 times, Frequency: 34.96%
+Basic Pokemon ID: b1a-005 (Spinarak), Additional Basic: 34876 times, Frequency: 34.88%
+
 ```
 
 ## Usage
